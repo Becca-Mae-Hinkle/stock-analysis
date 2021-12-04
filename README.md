@@ -261,10 +261,19 @@ See the Refactored and Original coding below.
        
 ## Stock Performance 2017 vs 2018
 
-When looking at 2017 vs 2018 you can see right away that all the stocks suffered a steep decline in 2018. In 2017 we only had
+When looking at 2017 vs 2018 you can see right away that all the stocks suffered a steep decline in 2018. Only 2 of the stocks kept a positive value in both years. With these results Steve may want to help his parents find other stocks to invest in.
 
-![Original 2017 Formatting](https://user-images.githubusercontent.com/94575416/144723107-721a17c8-8a12-451d-be49-a5c1f5df0f04.png)
+![Original 2017 Formatting](https://user-images.githubusercontent.com/94575416/144723107-721a17c8-8a12-451d-be49-a5c1f5df0f04.png) ![Original 2018 Formatting](https://user-images.githubusercontent.com/94575416/144723194-95be28b5-59bd-4231-8852-337062ada0a2.png)
 
 
-   
+## Execution Time
+
+We were able to improve the efficiency of the code. In 2017 it went from 0.875 seconds to 0.1328125 seconds. That is an improvement of 85%! In 2018 we went from 3.296875 to 0.1328125 seconds. That is an improvement of 96%.
+
+
+![Original 2017](https://user-images.githubusercontent.com/94575416/144723650-b0408e34-4671-4268-b064-7c9d80baebcb.png) ![Refactored 2017](https://user-images.githubusercontent.com/94575416/144723653-5a166b23-6058-4291-9448-5df1a1b7b9f4.png)
+
+
+
+![Original 2018](https://user-images.githubusercontent.com/94575416/144723677-55f96ffe-2ec0-4f04-bea8-bbad97ded48f.png) ![Refactored 2018](https://user-images.githubusercontent.com/94575416/144723682-ef4830b8-6ef4-4fa6-8840-65a280db4d19.png)
 
