@@ -254,7 +254,17 @@ See the Refactored and Original coding below.
     
      
         Next i
+        
+          
+    End Sub
+        
+       
+## Stock Performance 2017 vs 2018
 
-    
-End Sub
+When looking at 2017 vs 2018 you can see right away that all the stocks suffered a steep decline in 2018. In 2017 we only had
+
+![Original 2017 Formatting](https://user-images.githubusercontent.com/94575416/144723107-721a17c8-8a12-451d-be49-a5c1f5df0f04.png)
+
+
+   
 
